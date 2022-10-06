@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stressfulPanda
-- 👀 I’m interested in Java and maths
+- 👀 I’m a Java developer and interested in maths
 - 🌱 I’m currently learning Springboot
 
 <!---
