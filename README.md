@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stressfulPanda
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning Kotlin and Rust
+- 🌱 Mainly Python for AI and API development, with some Java.
 
 <!---
 stressfulPanda/stressfulPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
