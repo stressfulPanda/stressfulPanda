@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stressfulPanda
-- 👀 I’m a Java developer and interested in maths and functional programming
+- 👀 I’m a software engineer
 - 🌱 I’m currently learning Kotlin and Rust
 
 <!---
