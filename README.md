@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stressfulPanda
-- 👀 I’m a software engineer
-- 🌱 Python please
+- 👀 I’m a data scientist and ML engineer
+- 🌱 Python and C++
 
 <!---
 stressfulPanda/stressfulPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
